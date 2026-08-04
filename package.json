@@ -1,6 +1,6 @@
 {
   "name": "wallpaper-cli",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Get or set the desktop wallpaper",
   "main": "src/index.js",
   "scripts": {
